@@ -1,0 +1,13 @@
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\bin\Debug\netcoreapp3.1\Employee_Repository.deps.json
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\bin\Debug\netcoreapp3.1\Employee_Repository.dll
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\bin\Debug\netcoreapp3.1\Employee_Repository.pdb
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\bin\Debug\netcoreapp3.1\Employee_Interface.dll
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\bin\Debug\netcoreapp3.1\Employee_Interface.pdb
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.csproj.AssemblyReference.cache
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.csproj.CopyComplete
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.dll
+C:\Users\Dinesh\source\repos\Employee\Employee_Repository\obj\Debug\netcoreapp3.1\Employee_Repository.pdb

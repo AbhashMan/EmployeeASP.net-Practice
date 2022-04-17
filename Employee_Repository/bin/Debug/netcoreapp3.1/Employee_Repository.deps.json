@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Employee_Repository/1.0.0": {
+        "dependencies": {
+          "Employee_Interface": "1.0.0"
+        },
+        "runtime": {
+          "Employee_Repository.dll": {}
+        }
+      },
+      "Employee_Interface/1.0.0": {
+        "runtime": {
+          "Employee_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Common_Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Common_Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common_Entities.dll": {}
+        }
+      },
+      "Employee_Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Employee_Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee_Entity.dll": {}
+        }
+      },
+      "Employee_Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Common_Entities": "1.0.0",
+          "Employee_Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Employee_Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common_Entities/1.0.0": {
+      "type": "project",
+      "path": "../Common_Entities/Common_Entities.csproj",
+      "msbuildProject": "../Common_Entities/Common_Entities.csproj"
+    },
+    "Employee_Entity/1.0.0": {
+      "type": "project",
+      "path": "../Employee_Entity/Employee_Entity.csproj",
+      "msbuildProject": "../Employee_Entity/Employee_Entity.csproj"
+    },
+    "Employee_Interface/1.0.0": {
+      "type": "project",
+      "path": "../Employee_Interface/Employee_Interface.csproj",
+      "msbuildProject": "../Employee_Interface/Employee_Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Employee_Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dinesh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dinesh\\source\\repos\\Employee\\Employee_Repository\\Employee_Repository.csproj",
+      "projectName": "Employee_Repository",
+      "projectPath": "C:\\Users\\Dinesh\\source\\repos\\Employee\\Employee_Repository\\Employee_Repository.csproj",
+      "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dinesh\\source\\repos\\Employee\\Employee_Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Dinesh\\source\\repos\\Employee\\Employee_Interface\\Employee_Interface.csproj": {
+              "projectPath": "C:\\Users\\Dinesh\\source\\repos\\Employee\\Employee_Interface\\Employee_Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
