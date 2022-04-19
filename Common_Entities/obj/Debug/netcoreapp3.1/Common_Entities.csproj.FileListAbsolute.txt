@@ -1,0 +1,10 @@
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\bin\Debug\netcoreapp3.1\Common_Entities.deps.json
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\bin\Debug\netcoreapp3.1\Common_Entities.dll
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\bin\Debug\netcoreapp3.1\Common_Entities.pdb
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.csproj.AssemblyReference.cache
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.AssemblyInfoInputs.cache
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.AssemblyInfo.cs
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.csproj.CoreCompileInputs.cache
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.dll
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Common_Entities\obj\Debug\netcoreapp3.1\Common_Entities.pdb

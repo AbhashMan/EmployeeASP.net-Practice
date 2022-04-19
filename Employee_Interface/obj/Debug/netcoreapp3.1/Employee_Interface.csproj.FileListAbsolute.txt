@@ -1,0 +1,25 @@
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Interface.deps.json
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Interface.dll
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Interface.pdb
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.csproj.AssemblyReference.cache
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.AssemblyInfoInputs.cache
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.AssemblyInfo.cs
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.dll
+C:\Users\Dinesh\source\repos\Employee\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.pdb
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Interface.deps.json
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Interface.dll
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Interface.pdb
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Common_Entities.dll
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Entity.dll
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Common_Entities.pdb
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\bin\Debug\netcoreapp3.1\Employee_Entity.pdb
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.csproj.AssemblyReference.cache
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.AssemblyInfoInputs.cache
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.AssemblyInfo.cs
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.csproj.CoreCompileInputs.cache
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.csproj.CopyComplete
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.dll
+D:\ASP.Net Practice\EmployeeASP.net-Practice-main\Employee_Interface\obj\Debug\netcoreapp3.1\Employee_Interface.pdb
