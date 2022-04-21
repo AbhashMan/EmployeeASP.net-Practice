@@ -9,5 +9,13 @@ namespace Employee_Interface
     public interface IEmployee
     {
         JsonResponse AddEmployee(ATTEmployee aTTEmployee);
+
+        JsonResponse GetAllEmployees();
+
+        JsonResponse GetAllEmployees(int? EmpId);
+
+        JsonResponse UpdateEmployee(ATTEmployee updatedEmployee);
+
+        JsonResponse DeleteEmployee(int EmpId);
     }
 }
