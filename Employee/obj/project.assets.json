@@ -2049,6 +2049,29 @@
         "runtime": {
           "bin/placeholder/Employee_Repository.dll": {}
         }
+      },
+      "Login_Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Login_Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Login_Entity.dll": {}
+        }
+      },
+      "Login_Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Common_Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Login_Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Login_Interface.dll": {}
+        }
       }
     }
   },
@@ -6767,6 +6790,16 @@
       "type": "project",
       "path": "../Employee_Repository/Employee_Repository.csproj",
       "msbuildProject": "../Employee_Repository/Employee_Repository.csproj"
+    },
+    "Login_Entity/1.0.0": {
+      "type": "project",
+      "path": "../Login_Entity/Login_Entity.csproj",
+      "msbuildProject": "../Login_Entity/Login_Entity.csproj"
+    },
+    "Login_Interface/1.0.0": {
+      "type": "project",
+      "path": "../Login_Interface/Login_Interface.csproj",
+      "msbuildProject": "../Login_Interface/Login_Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6775,6 +6808,8 @@
       "Employee_Entity >= 1.0.0",
       "Employee_Interface >= 1.0.0",
       "Employee_Repository >= 1.0.0",
+      "Login_Entity >= 1.0.0",
+      "Login_Interface >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 3.1.22",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5"
     ]
@@ -6817,6 +6852,12 @@
             },
             "D:\\ASP.Net Practice\\EmployeeASP.net-Practice-main\\Employee_Repository\\Employee_Repository.csproj": {
               "projectPath": "D:\\ASP.Net Practice\\EmployeeASP.net-Practice-main\\Employee_Repository\\Employee_Repository.csproj"
+            },
+            "D:\\ASP.Net Practice\\EmployeeASP.net-Practice-main\\Login_Entity\\Login_Entity.csproj": {
+              "projectPath": "D:\\ASP.Net Practice\\EmployeeASP.net-Practice-main\\Login_Entity\\Login_Entity.csproj"
+            },
+            "D:\\ASP.Net Practice\\EmployeeASP.net-Practice-main\\Login_Interface\\Login_Interface.csproj": {
+              "projectPath": "D:\\ASP.Net Practice\\EmployeeASP.net-Practice-main\\Login_Interface\\Login_Interface.csproj"
             }
           }
         }
